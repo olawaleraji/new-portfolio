@@ -6,6 +6,7 @@ import Skills from './Skills'
 import Products from './Products'
 import Footer from './Footer'
 import Navbar from './Navbar'
+import Contact from './Contact'
 
 const App = () => {
   return (
@@ -23,6 +24,9 @@ const App = () => {
       </section>
       <section id='products'>
         <Products />
+      </section>
+      <section id='contact'>
+        <Contact />
       </section>
       <Footer />
     </div>

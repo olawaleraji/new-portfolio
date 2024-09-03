@@ -7,9 +7,9 @@ export default () => {
         <div className='space-y-4 flex-1 sm:text-center lg:text-left'>
           <h1 className='text-white font-bold text-4xl xl:text-5xl'>
             Hi,
-            <span className='text-indigo-400'> i'm TENIOLA JIMOH</span>
+            <span className='text-indigo-400'> I'm TENIOLA JIMOH</span>
             <br />
-            an entry level
+            an entry-level
             <br />
             SOFTWARE DEVELOPER
           </h1>
@@ -21,16 +21,10 @@ export default () => {
           </p>
           <div className='pt-10 items-center justify-center space-y-3 sm:space-x-6 sm:space-y-0 sm:flex lg:justify-start'>
             <a
-              href='javascript:void(0)'
-              className='px-7 py-3 w-full bg-white text-gray-800 text-center rounded-md shadow-md block sm:w-auto'
+              href='#products'
+              className='px-7 py-3 w-full font-semibold bg-white text-gray-800 text-center rounded-md shadow-md block sm:w-auto'
             >
-              Get started
-            </a>
-            <a
-              href='javascript:void(0)'
-              className='px-7 py-3 w-full bg-gray-700 text-gray-200 text-center rounded-md block sm:w-auto'
-            >
-              Try it out
+              View My Work
             </a>
           </div>
         </div>

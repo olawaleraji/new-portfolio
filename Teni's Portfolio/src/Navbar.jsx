@@ -5,7 +5,8 @@ export default () => {
     { title: 'About', path: '#about' },
     { title: 'Skills', path: '#skills' },
     { title: 'Products', path: '#products' },
-    { title: 'Collaboration', path: '#build' } // Update this as needed
+    { title: 'Collaboration', path: '#build' },
+    { title: 'Contact', path: '#contact' }
   ]
 
   return (
